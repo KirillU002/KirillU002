@@ -1,7 +1,7 @@
 # Привет 👋
 
 ## Я Кирилл
-C# Developer | ASP.NET | WPF | Avalonia
+C# Developer | ASP.NET | WPF | Avalonia | WindowsForms
 
 ---
 
